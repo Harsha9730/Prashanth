@@ -1,2 +1,3 @@
-# Prashanth
-Python code time viewer
+import datetime
+now = datetime.datetime.now()
+print(now)
